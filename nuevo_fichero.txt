@@ -1,0 +1,4 @@
+"Versi¢n inicial del nuevo fichero" 
+"A¤adido un segundo p rrafo" 
+"Tercer p rrafo para probar commits peque¤os" 
+"éltima l¡nea antes de fusionar con develop" 
